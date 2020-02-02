@@ -1,7 +1,6 @@
 ---
 kind: pipeline
 name: default
-
 steps:
 - name: hello
   image: alpine:3.8
